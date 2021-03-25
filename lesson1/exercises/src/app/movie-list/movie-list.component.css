@@ -7,4 +7,6 @@ ol{
 }
 .movies{
     color: lightseagreen;
+    border:3px solid rgb(19, 19, 19) ;
+
 }
